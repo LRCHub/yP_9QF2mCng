@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "カノープス",
+  "base_artist": "Novelbright",
+  "createdAt": "2025-12-04T14:38:12.977459Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カノープス",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/01_カノープス_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カノープス - Canopus",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/02_カノープス_-_Canopus_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カノープス",
+      "artist": "NayutalieN",
+      "has_synced": true,
+      "path": "select/03_カノープス_NayutalieN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カノープス",
+      "artist": "Novelbright",
+      "has_synced": false,
+      "path": "select/pl_01_カノープス_Novelbright.txt"
+    }
+  ]
+}
